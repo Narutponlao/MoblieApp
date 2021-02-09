@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ass1</string>
+    <string name="assignment1" >Assignment 1</string>
+    <string name="textview1" >ยอดขาย</string>
+    <string name="button1">คำนวณ</string>
+    <string name="textview2" >ร้อยละส่วนแบ่ง</string>
+    <string name="textview3" >ยอดขายหักส่วนแบ่ง</string>
+    <string name="textview4" >คำนวณ</string>
+    <string name="buttonDel" >DeleteFile</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" >Ass1</string>
+    <string name="assignment1" >Assignment 1</string>
+    <string name="textview1" >Sales</string>
+    <string name="button1" >Calculate</string>
+    <string name="textview2" >Share percentage</string>
+    <string name="textview3" >Sales minus share</string>
+    <string name="textview4" >Sales share</string>
+    <string name="buttonDel" >DeleteFile</string>
+</resources>
